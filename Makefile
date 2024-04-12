@@ -51,13 +51,13 @@ PKG_TALOSCTL_CNI_BUNDLE_INSTALL ?= $(PKGS_PREFIX)/talosctl-cni-bundle-install:$(
 # renovate: datasource=github-tags depName=golang/go
 GO_VERSION ?= 1.22
 # renovate: datasource=go depName=golang.org/x/tools
-GOIMPORTS_VERSION ?= v0.19.0
+GOIMPORTS_VERSION ?= v0.20.0
 # renovate: datasource=go depName=mvdan.cc/gofumpt
 GOFUMPT_VERSION ?= v0.6.0
 # renovate: datasource=go depName=github.com/golangci/golangci-lint
 GOLANGCILINT_VERSION ?= v1.57.2
 # renovate: datasource=go depName=golang.org/x/tools
-STRINGER_VERSION ?= v0.19.0
+STRINGER_VERSION ?= v0.20.0
 # renovate: datasource=go depName=github.com/dmarkham/enumer
 ENUMER_VERSION ?= v1.5.9
 # renovate: datasource=go depName=k8s.io/code-generator

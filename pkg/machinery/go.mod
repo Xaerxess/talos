@@ -29,7 +29,7 @@ require (
 	github.com/siderolabs/protoenc v0.2.1
 	github.com/stretchr/testify v1.9.0
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20240401170217-c3f982113cda
-	google.golang.org/grpc v1.62.1
+	google.golang.org/grpc v1.63.2
 	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v3 v3.0.1
 )
@@ -43,7 +43,7 @@ require (
 	github.com/containernetworking/cni v1.1.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/gertd/go-pluralize v0.2.1 // indirect
-	github.com/golang/protobuf v1.5.3 // indirect
+	github.com/golang/protobuf v1.5.4 // indirect
 	github.com/google/go-cmp v0.6.0 // indirect
 	github.com/google/pprof v0.0.0-20240402174815-29b9bb013b0f // indirect
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.19.1 // indirect
