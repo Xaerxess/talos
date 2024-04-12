@@ -90,7 +90,7 @@ KUBECTL_VERSION ?= v1.30.0-rc.2
 # renovate: datasource=github-releases depName=kastenhq/kubestr
 KUBESTR_VERSION ?= v0.4.44
 # renovate: datasource=github-releases depName=helm/helm
-HELM_VERSION ?= v3.14.3
+HELM_VERSION ?= v3.14.4
 # renovate: datasource=github-releases depName=kubernetes-sigs/cluster-api
 CLUSTERCTL_VERSION ?= 1.6.3
 # renovate: datasource=github-releases depName=cilium/cilium-cli
